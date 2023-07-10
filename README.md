@@ -14,7 +14,7 @@ In this program, I  first defined a method **web_scapping()**. This uses web scr
 Resources: https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/
 
 
-The method **answer_question()** that uses the transformers natural language processors **question-answering pipeline**. It takes a context (extracted from the web_scrapping method) and a question(user input), and returns the answer based on what the pipeline answer.
+The method **get_answer()** that uses the transformers natural language processors **question-answering pipeline**. It takes a context (extracted from the web_scrapping method) and a question(user input), and returns the answer based on what the pipeline answer.
 Resources: https://towardsdatascience.com/question-answering-with-pretrained-transformers-using-pytorch-c3e7a44b4012
 
 
